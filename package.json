@@ -1,0 +1,17 @@
+{
+  "name": "pinky-promise",
+  "version": "0.0.1",
+  "description": "Better than a Promise!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Promise",
+    "Pinky",
+    "PinkyPromise"
+  ],
+  "author": "Rowland Wallerstein",
+  "license": "ISC"
+}
