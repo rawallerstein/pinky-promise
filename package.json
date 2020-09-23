@@ -2,16 +2,25 @@
   "name": "pinky-promise",
   "version": "0.0.1",
   "description": "Better than a Promise!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "JavaScript",
     "Promise",
     "Pinky",
     "PinkyPromise"
   ],
+  "homepage": "https://github.com/rawallerstein/pinky-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rawallerstein/pinky-promise.git"
+  },
   "author": "Rowland Wallerstein",
-  "license": "ISC"
+  "license": "ISC",
+  "private": false,
+  "engines": {
+    "node": ">=12.18.4"
+  }
 }
